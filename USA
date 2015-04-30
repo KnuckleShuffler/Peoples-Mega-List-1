@@ -313,8 +313,8 @@
 <item>
 <title>[COLOR green]ABC Live Stream[/COLOR]</title>
 <link>http://abclive.abcnews.com/i/abc_live1@136327/master.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://s3.amazonaws.com/image.infoarmy/ABCNEWS.png</thumbnail>
+<fanart>https://s3.amazonaws.com/image.infoarmy/ABCNEWS.png</fanart>
 <info></info>
 </item>
 
